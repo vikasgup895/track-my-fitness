@@ -37,7 +37,7 @@ Make sure you have **Python 3.7+** installed.
    ```
 2. Install required dependencies:
    ```sh
-   pip install numpy pandas matplotlib streamlit seaborn
+   pip install -r requirements.txt
    ```
 3. Run the Streamlit app:
    ```sh
