@@ -1,5 +1,5 @@
 # Personal Fitness Tracker 🏋️‍♂️
-![image](https://github.com/user-attachments/assets/3a33bcab-abf5-4e67-a813-348467543a76)
+![image](https://github.com/user-attachments/assets/c0792156-2171-4f28-ab00-7fbb687958c5)
 
 
 *A smart fitness tracking system built with Streamlit and Python.*
@@ -53,7 +53,7 @@ Make sure you have **Python 3.7+** installed.
 5. **Educational Content:** Provides useful fitness & yoga resources.
 
 ## 📷 Screenshots
-![image](https://github.com/user-attachments/assets/81ca63ed-64df-45cf-9e90-63cdace92176)
+![image](https://github.com/user-attachments/assets/9589c55f-5f36-4619-8feb-7079d9f64bc2)
 
 ## 📚 Additional Resources
 - [Streamlit Documentation](https://docs.streamlit.io/)
