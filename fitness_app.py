@@ -167,13 +167,13 @@ def get_educational_links(bmi, sleep):
         })
     elif 18.5 <= bmi < 25:
         links.update({
-            "General Fitness": "https://www.self.com/story/best-fitness-tips",
-            "Healthy Lifestyle": "https://www.health.harvard.edu/staying-healthy"
+            "General Fitness": "https://faq.keleefitness.com/how-to-increase-general-fitness/",
+            "Healthy Lifestyle": "https://www.healthline.com/health/staying-healthy"
         })
     else:
         links.update({
-            "Weight Loss Tips": "https://www.medicalnewstoday.com/articles/weight-loss",
-            "Fat Burning Exercises": "https://www.healthline.com/nutrition/best-exercise-weight-loss"
+            "Weight Loss Tips": "https://www.medicalnewstoday.com/articles/322345#takeaway",
+            "Fat Burning Exercises": "https://thefitnessphantom.com/12-week-weight-loss-workout-plan-with-pdf"
         })
 
     # Add Sleep Improvement Tips for users with < 6 hours of sleep
